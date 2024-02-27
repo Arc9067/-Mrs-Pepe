@@ -1242,6 +1242,7 @@ body .btn-eight:hover {
 /*^^^^^^^^^^^^^^^^^^^^^ Feature Section Two ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .fancy-feature-two {
   z-index: 3;
+  padding-top: 100px;
 }
 .block-style-two ul.list-item li {
   font-family: "gorditamedium";
@@ -1439,6 +1440,7 @@ body .btn-eight:hover {
 }
 .counter-section-one.fancy-bg {
   margin-top: -150px;
+  padding-bottom: 100px;
 }
 .counter-section-one.fancy-bg .counter-block-one:before,
 .counter-section-one .inner-container.no-bg .counter-block-one:before,
